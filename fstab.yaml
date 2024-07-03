@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: https://publish-p53804-e346897.adobeaemcloud.com/bin/franklin.delivery/sherest/test2-walk/main
+    url: https://author-p53804-e346897.adobeaemcloud.com/bin/franklin.delivery/sherest/test2-walk/main
     type: markup
     suffix: ".html?wcmmode=disabled"
